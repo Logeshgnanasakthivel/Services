@@ -11,7 +11,7 @@ export const Services = () => {
   { name: "plumber"},
   { name: "electricen" },
   { name: "painter" },
-  { name: "hgfd" },
+  { name: "cook" },
   { name: "maid" }
 ]
   return (
