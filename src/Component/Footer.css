@@ -1,0 +1,15 @@
+.fotter{
+    background-color: #b822f3fe;
+    height: 10px;
+    width: 100%; 
+    /* padding: 10px; */
+
+
+
+        position: fixed;
+        bottom: 0;
+        /* width: 100%; */
+        /* background-color: #eee; */
+        text-align: center;
+        /* padding: 10px; */
+}

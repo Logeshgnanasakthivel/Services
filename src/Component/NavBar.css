@@ -1,0 +1,27 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    /* separates mainPages and profile */
+    align-items: center;
+    padding: 20px;
+    /* height: 100px; */
+    /* optional: define a height */
+    background-color: #b822f3fe;
+    /* optional: background */
+}
+
+.mainPages {
+    display: flex;
+    gap: 20px;
+    /* space between Home, About, etc. */
+    margin: 0 auto;
+    /* center it in available space */
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.profile {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
